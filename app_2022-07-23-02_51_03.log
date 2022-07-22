@@ -1,0 +1,45 @@
+2022-Jul-23 02:51:05 am [main] INFO  com.visionit1.automation.core.WebDriverFactory - Firefox Browser invoked
+2022-Jul-23 02:51:05 am [main] INFO  com.visionit1.automation.core.WebDriverFactory - Driver maximized and implicit time out set to 20 seconds
+2022-Jul-23 02:51:05 am [main] INFO  com.visionit1.automation.stepdefs.StepDefs - Browser invoked
+2022-Jul-23 02:51:09 am [main] INFO  com.visionit1.automation.stepdefs.StepDefs - Browser navigated to URL :http://automationpractice.com/
+2022-Jul-23 02:51:10 am [main] INFO  com.visionit1.automation.core.WebDriverFactory - Driver closed
+2022-Jul-23 02:51:10 am [main] INFO  com.visionit1.automation.stepdefs.StepDefs - Browser closed
+2022-Jul-23 02:51:11 am [main] INFO  com.visionit1.automation.core.WebDriverFactory - Firefox Browser invoked
+2022-Jul-23 02:51:11 am [main] INFO  com.visionit1.automation.core.WebDriverFactory - Driver maximized and implicit time out set to 20 seconds
+2022-Jul-23 02:51:11 am [main] INFO  com.visionit1.automation.stepdefs.StepDefs - Browser invoked
+2022-Jul-23 02:51:15 am [main] INFO  com.visionit1.automation.stepdefs.StepDefs - Browser navigated to URL :http://automationpractice.com/
+2022-Jul-23 02:51:16 am [main] INFO  com.visionit1.automation.core.WebDriverFactory - Driver closed
+2022-Jul-23 02:51:16 am [main] INFO  com.visionit1.automation.stepdefs.StepDefs - Browser closed
+2022-Jul-23 02:51:18 am [main] INFO  com.visionit1.automation.core.WebDriverFactory - Firefox Browser invoked
+2022-Jul-23 02:51:18 am [main] INFO  com.visionit1.automation.core.WebDriverFactory - Driver maximized and implicit time out set to 20 seconds
+2022-Jul-23 02:51:18 am [main] INFO  com.visionit1.automation.stepdefs.StepDefs - Browser invoked
+2022-Jul-23 02:51:21 am [main] INFO  com.visionit1.automation.stepdefs.StepDefs - Browser navigated to URL :http://automationpractice.com/
+2022-Jul-23 02:51:23 am [main] INFO  com.visionit1.automation.core.WebDriverFactory - Firefox Browser invoked
+2022-Jul-23 02:51:23 am [main] INFO  com.visionit1.automation.core.WebDriverFactory - Driver maximized and implicit time out set to 20 seconds
+2022-Jul-23 02:51:23 am [main] INFO  com.visionit1.automation.stepdefs.StepDefs - Browser invoked
+2022-Jul-23 02:51:26 am [main] INFO  com.visionit1.automation.stepdefs.StepDefs - Browser navigated to URL :http://automationpractice.com/
+2022-Jul-23 02:51:28 am [main] INFO  com.visionit1.automation.core.WebDriverFactory - Firefox Browser invoked
+2022-Jul-23 02:51:28 am [main] INFO  com.visionit1.automation.core.WebDriverFactory - Driver maximized and implicit time out set to 20 seconds
+2022-Jul-23 02:51:28 am [main] INFO  com.visionit1.automation.stepdefs.StepDefs - Browser invoked
+2022-Jul-23 02:51:32 am [main] INFO  com.visionit1.automation.stepdefs.StepDefs - Browser navigated to URL :http://automationpractice.com/
+2022-Jul-23 02:51:34 am [main] INFO  com.visionit1.automation.core.WebDriverFactory - Firefox Browser invoked
+2022-Jul-23 02:51:34 am [main] INFO  com.visionit1.automation.core.WebDriverFactory - Driver maximized and implicit time out set to 20 seconds
+2022-Jul-23 02:51:34 am [main] INFO  com.visionit1.automation.stepdefs.StepDefs - Browser invoked
+2022-Jul-23 02:51:37 am [main] INFO  com.visionit1.automation.stepdefs.StepDefs - Browser navigated to URL :http://automationpractice.com/
+2022-Jul-23 02:51:39 am [main] INFO  com.visionit1.automation.core.WebDriverFactory - Firefox Browser invoked
+2022-Jul-23 02:51:39 am [main] INFO  com.visionit1.automation.core.WebDriverFactory - Driver maximized and implicit time out set to 20 seconds
+2022-Jul-23 02:51:39 am [main] INFO  com.visionit1.automation.stepdefs.StepDefs - Browser invoked
+2022-Jul-23 02:51:43 am [main] INFO  com.visionit1.automation.stepdefs.StepDefs - Browser navigated to URL :http://automationpractice.com/
+2022-Jul-23 02:51:43 am [main] INFO  com.visionit1.automation.pageobjects.HomePageObjects - Created webelement for signin button
+2022-Jul-23 02:51:52 am [main] INFO  com.visionit1.automation.core.WebDriverFactory - Firefox Browser invoked
+2022-Jul-23 02:51:52 am [main] INFO  com.visionit1.automation.core.WebDriverFactory - Driver maximized and implicit time out set to 20 seconds
+2022-Jul-23 02:51:52 am [main] INFO  com.visionit1.automation.stepdefs.StepDefs - Browser invoked
+2022-Jul-23 02:51:55 am [main] INFO  com.visionit1.automation.stepdefs.StepDefs - Browser navigated to URL :http://automationpractice.com/
+2022-Jul-23 02:51:57 am [main] INFO  com.visionit1.automation.core.WebDriverFactory - Firefox Browser invoked
+2022-Jul-23 02:51:57 am [main] INFO  com.visionit1.automation.core.WebDriverFactory - Driver maximized and implicit time out set to 20 seconds
+2022-Jul-23 02:51:57 am [main] INFO  com.visionit1.automation.stepdefs.StepDefs - Browser invoked
+2022-Jul-23 02:52:01 am [main] INFO  com.visionit1.automation.stepdefs.StepDefs - Browser navigated to URL :http://automationpractice.com/
+2022-Jul-23 02:52:03 am [main] INFO  com.visionit1.automation.core.WebDriverFactory - Firefox Browser invoked
+2022-Jul-23 02:52:03 am [main] INFO  com.visionit1.automation.core.WebDriverFactory - Driver maximized and implicit time out set to 20 seconds
+2022-Jul-23 02:52:03 am [main] INFO  com.visionit1.automation.stepdefs.StepDefs - Browser invoked
+2022-Jul-23 02:52:06 am [main] INFO  com.visionit1.automation.stepdefs.StepDefs - Browser navigated to URL :http://automationpractice.com/

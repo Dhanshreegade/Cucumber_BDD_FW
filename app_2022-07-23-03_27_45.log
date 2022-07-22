@@ -1,0 +1,103 @@
+2022-Jul-23 03:27:47 am [main] INFO  com.visionit1.automation.core.WebDriverFactory - Firefox Browser invoked
+2022-Jul-23 03:27:47 am [main] INFO  com.visionit1.automation.core.WebDriverFactory - Driver maximized and implicit time out set to 20 seconds
+2022-Jul-23 03:27:47 am [main] INFO  com.visionit1.automation.stepdefs.StepDefs - Browser invoked
+2022-Jul-23 03:28:01 am [main] INFO  com.visionit1.automation.stepdefs.StepDefs - Browser navigated to URL :http://automationpractice.com/
+2022-Jul-23 03:28:01 am [main] INFO  com.visionit1.automation.pageobjects.HomePageObjects - URL validation successful. Actual URL :http://automationpractice.com/index.php
+2022-Jul-23 03:28:01 am [main] INFO  com.visionit1.automation.core.WebDriverFactory - Driver closed
+2022-Jul-23 03:28:01 am [main] INFO  com.visionit1.automation.stepdefs.StepDefs - Browser closed
+2022-Jul-23 03:28:03 am [main] INFO  com.visionit1.automation.core.WebDriverFactory - Firefox Browser invoked
+2022-Jul-23 03:28:03 am [main] INFO  com.visionit1.automation.core.WebDriverFactory - Driver maximized and implicit time out set to 20 seconds
+2022-Jul-23 03:28:03 am [main] INFO  com.visionit1.automation.stepdefs.StepDefs - Browser invoked
+2022-Jul-23 03:28:21 am [main] INFO  com.visionit1.automation.stepdefs.StepDefs - Browser navigated to URL :http://automationpractice.com/
+2022-Jul-23 03:28:21 am [main] INFO  com.visionit1.automation.pageobjects.HomePageObjects - Title validation successful. Actual Title :My Store
+2022-Jul-23 03:28:22 am [main] INFO  com.visionit1.automation.core.WebDriverFactory - Driver closed
+2022-Jul-23 03:28:22 am [main] INFO  com.visionit1.automation.stepdefs.StepDefs - Browser closed
+2022-Jul-23 03:28:24 am [main] INFO  com.visionit1.automation.core.WebDriverFactory - Firefox Browser invoked
+2022-Jul-23 03:28:24 am [main] INFO  com.visionit1.automation.core.WebDriverFactory - Driver maximized and implicit time out set to 20 seconds
+2022-Jul-23 03:28:24 am [main] INFO  com.visionit1.automation.stepdefs.StepDefs - Browser invoked
+2022-Jul-23 03:28:36 am [main] INFO  com.visionit1.automation.stepdefs.StepDefs - Browser navigated to URL :http://automationpractice.com/
+2022-Jul-23 03:28:36 am [main] INFO  com.visionit1.automation.pageobjects.HomePageObjects - All product catagories are displayed
+2022-Jul-23 03:28:36 am [main] INFO  com.visionit1.automation.pageobjects.HomePageObjects - All product catagories are displayed
+2022-Jul-23 03:28:36 am [main] INFO  com.visionit1.automation.pageobjects.HomePageObjects - All product catagories are displayed
+2022-Jul-23 03:28:36 am [main] INFO  com.visionit1.automation.core.WebDriverFactory - Driver closed
+2022-Jul-23 03:28:36 am [main] INFO  com.visionit1.automation.stepdefs.StepDefs - Browser closed
+2022-Jul-23 03:28:38 am [main] INFO  com.visionit1.automation.core.WebDriverFactory - Firefox Browser invoked
+2022-Jul-23 03:28:38 am [main] INFO  com.visionit1.automation.core.WebDriverFactory - Driver maximized and implicit time out set to 20 seconds
+2022-Jul-23 03:28:38 am [main] INFO  com.visionit1.automation.stepdefs.StepDefs - Browser invoked
+2022-Jul-23 03:28:50 am [main] INFO  com.visionit1.automation.stepdefs.StepDefs - Browser navigated to URL :http://automationpractice.com/
+2022-Jul-23 03:28:50 am [main] INFO  com.visionit1.automation.pageobjects.HomePageObjects - created webelement for logoimage
+2022-Jul-23 03:28:50 am [main] INFO  com.visionit1.automation.pageobjects.HomePageObjects - Landing page logo is displayed
+2022-Jul-23 03:28:51 am [main] INFO  com.visionit1.automation.core.WebDriverFactory - Driver closed
+2022-Jul-23 03:28:51 am [main] INFO  com.visionit1.automation.stepdefs.StepDefs - Browser closed
+2022-Jul-23 03:28:53 am [main] INFO  com.visionit1.automation.core.WebDriverFactory - Firefox Browser invoked
+2022-Jul-23 03:28:53 am [main] INFO  com.visionit1.automation.core.WebDriverFactory - Driver maximized and implicit time out set to 20 seconds
+2022-Jul-23 03:28:53 am [main] INFO  com.visionit1.automation.stepdefs.StepDefs - Browser invoked
+2022-Jul-23 03:29:04 am [main] INFO  com.visionit1.automation.stepdefs.StepDefs - Browser navigated to URL :http://automationpractice.com/
+2022-Jul-23 03:29:04 am [main] INFO  com.visionit1.automation.pageobjects.HomePageObjects - created webelement for logoimage
+2022-Jul-23 03:29:04 am [main] INFO  com.visionit1.automation.pageobjects.HomePageObjects - Landing page logo height is 99
+2022-Jul-23 03:29:04 am [main] INFO  com.visionit1.automation.core.WebDriverFactory - Driver closed
+2022-Jul-23 03:29:04 am [main] INFO  com.visionit1.automation.stepdefs.StepDefs - Browser closed
+2022-Jul-23 03:29:06 am [main] INFO  com.visionit1.automation.core.WebDriverFactory - Firefox Browser invoked
+2022-Jul-23 03:29:06 am [main] INFO  com.visionit1.automation.core.WebDriverFactory - Driver maximized and implicit time out set to 20 seconds
+2022-Jul-23 03:29:06 am [main] INFO  com.visionit1.automation.stepdefs.StepDefs - Browser invoked
+2022-Jul-23 03:29:18 am [main] INFO  com.visionit1.automation.stepdefs.StepDefs - Browser navigated to URL :http://automationpractice.com/
+2022-Jul-23 03:29:18 am [main] INFO  com.visionit1.automation.pageobjects.HomePageObjects - created webelement for logoimage
+2022-Jul-23 03:29:18 am [main] INFO  com.visionit1.automation.pageobjects.HomePageObjects - Landing page logo width is 350
+2022-Jul-23 03:29:19 am [main] INFO  com.visionit1.automation.core.WebDriverFactory - Driver closed
+2022-Jul-23 03:29:19 am [main] INFO  com.visionit1.automation.stepdefs.StepDefs - Browser closed
+2022-Jul-23 03:29:21 am [main] INFO  com.visionit1.automation.core.WebDriverFactory - Firefox Browser invoked
+2022-Jul-23 03:29:21 am [main] INFO  com.visionit1.automation.core.WebDriverFactory - Driver maximized and implicit time out set to 20 seconds
+2022-Jul-23 03:29:21 am [main] INFO  com.visionit1.automation.stepdefs.StepDefs - Browser invoked
+2022-Jul-23 03:29:33 am [main] INFO  com.visionit1.automation.stepdefs.StepDefs - Browser navigated to URL :http://automationpractice.com/
+2022-Jul-23 03:29:33 am [main] INFO  com.visionit1.automation.pageobjects.HomePageObjects - Created webelement for signin button
+2022-Jul-23 03:29:39 am [main] INFO  com.visionit1.automation.pageobjects.HomePageObjects - Clicked on sign in button
+2022-Jul-23 03:29:42 am [main] INFO  com.visionit1.automation.pageobjects.HomePageObjects - Sign in page title is :Login - My Store
+2022-Jul-23 03:29:43 am [main] INFO  com.visionit1.automation.core.WebDriverFactory - Driver closed
+2022-Jul-23 03:29:43 am [main] INFO  com.visionit1.automation.stepdefs.StepDefs - Browser closed
+2022-Jul-23 03:29:45 am [main] INFO  com.visionit1.automation.core.WebDriverFactory - Firefox Browser invoked
+2022-Jul-23 03:29:45 am [main] INFO  com.visionit1.automation.core.WebDriverFactory - Driver maximized and implicit time out set to 20 seconds
+2022-Jul-23 03:29:45 am [main] INFO  com.visionit1.automation.stepdefs.StepDefs - Browser invoked
+2022-Jul-23 03:29:57 am [main] INFO  com.visionit1.automation.stepdefs.StepDefs - Browser navigated to URL :http://automationpractice.com/
+2022-Jul-23 03:29:57 am [main] INFO  com.visionit1.automation.pageobjects.HomePageObjects - Created a webelement for searchbox
+2022-Jul-23 03:29:57 am [main] INFO  com.visionit1.automation.pageobjects.HomePageObjects - Search box is enabled
+2022-Jul-23 03:29:58 am [main] INFO  com.visionit1.automation.pageobjects.HomePageObjects - Sent product name in searchbox
+2022-Jul-23 03:30:00 am [main] INFO  com.visionit1.automation.pageobjects.HomePageObjects - Created WebElement for dresssearchlist
+2022-Jul-23 03:30:00 am [main] INFO  com.visionit1.automation.pageobjects.HomePageObjects - Count set to 0
+2022-Jul-23 03:30:00 am [main] INFO  com.visionit1.automation.pageobjects.HomePageObjects - Search list is printed
+2022-Jul-23 03:30:00 am [main] INFO  com.visionit1.automation.pageobjects.HomePageObjects - Count increased by 1
+2022-Jul-23 03:30:00 am [main] INFO  com.visionit1.automation.pageobjects.HomePageObjects - Search list is printed
+2022-Jul-23 03:30:00 am [main] INFO  com.visionit1.automation.pageobjects.HomePageObjects - Count increased by 1
+2022-Jul-23 03:30:00 am [main] INFO  com.visionit1.automation.pageobjects.HomePageObjects - Search list is printed
+2022-Jul-23 03:30:00 am [main] INFO  com.visionit1.automation.pageobjects.HomePageObjects - Count increased by 1
+2022-Jul-23 03:30:00 am [main] INFO  com.visionit1.automation.pageobjects.HomePageObjects - Search list is printed
+2022-Jul-23 03:30:00 am [main] INFO  com.visionit1.automation.pageobjects.HomePageObjects - Count increased by 1
+2022-Jul-23 03:30:00 am [main] INFO  com.visionit1.automation.pageobjects.HomePageObjects - Search list is printed
+2022-Jul-23 03:30:00 am [main] INFO  com.visionit1.automation.pageobjects.HomePageObjects - Count increased by 1
+2022-Jul-23 03:30:00 am [main] INFO  com.visionit1.automation.pageobjects.HomePageObjects - Search list is printed
+2022-Jul-23 03:30:00 am [main] INFO  com.visionit1.automation.pageobjects.HomePageObjects - Search list is printed
+2022-Jul-23 03:30:00 am [main] INFO  com.visionit1.automation.pageobjects.HomePageObjects - The number of products contains keyword dress are 5
+2022-Jul-23 03:30:01 am [main] INFO  com.visionit1.automation.core.WebDriverFactory - Driver closed
+2022-Jul-23 03:30:01 am [main] INFO  com.visionit1.automation.stepdefs.StepDefs - Browser closed
+2022-Jul-23 03:30:12 am [main] INFO  com.visionit1.automation.core.WebDriverFactory - Firefox Browser invoked
+2022-Jul-23 03:30:12 am [main] INFO  com.visionit1.automation.core.WebDriverFactory - Driver maximized and implicit time out set to 20 seconds
+2022-Jul-23 03:30:12 am [main] INFO  com.visionit1.automation.stepdefs.StepDefs - Browser invoked
+2022-Jul-23 03:30:23 am [main] INFO  com.visionit1.automation.stepdefs.StepDefs - Browser navigated to URL :http://automationpractice.com/
+2022-Jul-23 03:30:23 am [main] INFO  com.visionit1.automation.pageobjects.HomePageObjects - Created webElement for twiter
+2022-Jul-23 03:30:23 am [main] INFO  com.visionit1.automation.pageobjects.HomePageObjects - Click on twitter logo
+2022-Jul-23 03:30:23 am [main] INFO  com.visionit1.automation.pageobjects.HomePageObjects - Window switched to twitter page
+2022-Jul-23 03:30:26 am [main] INFO  com.visionit1.automation.pageobjects.HomePageObjects - Created WebElement for Twitter Account name
+2022-Jul-23 03:30:26 am [main] INFO  com.visionit1.automation.pageobjects.HomePageObjects - Twitter Account name is :Selenium Framework
+2022-Jul-23 03:30:26 am [main] INFO  com.visionit1.automation.core.WebDriverFactory - Driver closed
+2022-Jul-23 03:30:26 am [main] INFO  com.visionit1.automation.stepdefs.StepDefs - Browser closed
+2022-Jul-23 03:30:28 am [main] INFO  com.visionit1.automation.core.WebDriverFactory - Firefox Browser invoked
+2022-Jul-23 03:30:28 am [main] INFO  com.visionit1.automation.core.WebDriverFactory - Driver maximized and implicit time out set to 20 seconds
+2022-Jul-23 03:30:28 am [main] INFO  com.visionit1.automation.stepdefs.StepDefs - Browser invoked
+2022-Jul-23 03:30:40 am [main] INFO  com.visionit1.automation.stepdefs.StepDefs - Browser navigated to URL :http://automationpractice.com/
+2022-Jul-23 03:30:40 am [main] INFO  com.visionit1.automation.pageobjects.HomePageObjects - created WebElement for email box
+2022-Jul-23 03:30:40 am [main] INFO  com.visionit1.automation.pageobjects.HomePageObjects - email entered in email box
+2022-Jul-23 03:30:40 am [main] INFO  com.visionit1.automation.pageobjects.HomePageObjects - created WebElement for send button
+2022-Jul-23 03:30:43 am [main] INFO  com.visionit1.automation.pageobjects.HomePageObjects - Clicked on Sendbutton
+2022-Jul-23 03:30:43 am [main] INFO  com.visionit1.automation.pageobjects.HomePageObjects - created WebElement for successmessage
+2022-Jul-23 03:30:43 am [main] INFO  com.visionit1.automation.pageobjects.HomePageObjects - After successful email subscription the message should be: Newsletter : You have successfully subscribed to this newsletter.
+2022-Jul-23 03:30:43 am [main] INFO  com.visionit1.automation.core.WebDriverFactory - Driver closed
+2022-Jul-23 03:30:43 am [main] INFO  com.visionit1.automation.stepdefs.StepDefs - Browser closed

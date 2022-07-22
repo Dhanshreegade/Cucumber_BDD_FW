@@ -1,0 +1,1040 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 4,
+        "name": "Navigated to url",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "output": [
+              "Browser navigated to URL :http://automationpractice.com/"
+            ],
+            "result": {
+              "duration": 12566484500,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User navigated to home application Url",
+            "match": {
+              "location": "com.visionit1.automation.stepdefs.StepDefs.user_navigated_to_home_application_url()"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-07-22T22:29:07.821Z",
+        "before": [
+          {
+            "result": {
+              "duration": 2575134900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.visionit1.automation.stepdefs.StepDefs.setup(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 8,
+        "name": "User able to open the browser, navigated to url and validate Url",
+        "description": "",
+        "id": "e-commerce-website-for-online-shopping;user-able-to-open-the-browser--navigated-to-url-and-validate-url",
+        "after": [
+          {
+            "output": [
+              "Test case is passed, no screen shot captured"
+            ],
+            "result": {
+              "duration": 1028800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.visionit1.automation.stepdefs.StepDefs.takeScreenShot(io.cucumber.java.Scenario)"
+            }
+          },
+          {
+            "result": {
+              "duration": 720373200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.visionit1.automation.stepdefs.StepDefs.cleanUp()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "output": [
+              "URL validation successful. Actual URL :http://automationpractice.com/index.php"
+            ],
+            "result": {
+              "duration": 33297000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Landing page URL validated",
+            "match": {
+              "location": "com.visionit1.automation.stepdefs.StepDefs.landing_page_url_validated()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tc"
+          },
+          {
+            "name": "@E-check"
+          },
+          {
+            "name": "@1LandingPageURL"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "Navigated to url",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "output": [
+              "Browser navigated to URL :http://automationpractice.com/"
+            ],
+            "result": {
+              "duration": 12405918600,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User navigated to home application Url",
+            "match": {
+              "location": "com.visionit1.automation.stepdefs.StepDefs.user_navigated_to_home_application_url()"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-07-22T22:29:23.782Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1937866100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.visionit1.automation.stepdefs.StepDefs.setup(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 12,
+        "name": "User able to open the browser,navigated to url and validate Title",
+        "description": "",
+        "id": "e-commerce-website-for-online-shopping;user-able-to-open-the-browser-navigated-to-url-and-validate-title",
+        "after": [
+          {
+            "output": [
+              "Test case is passed, no screen shot captured"
+            ],
+            "result": {
+              "duration": 997200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.visionit1.automation.stepdefs.StepDefs.takeScreenShot(io.cucumber.java.Scenario)"
+            }
+          },
+          {
+            "result": {
+              "duration": 711811400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.visionit1.automation.stepdefs.StepDefs.cleanUp()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "output": [
+              "Title validation successful. Actual Title :My Store"
+            ],
+            "result": {
+              "duration": 7968700,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "Landing page title validated",
+            "match": {
+              "location": "com.visionit1.automation.stepdefs.StepDefs.landing_page_title_validated()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tc"
+          },
+          {
+            "name": "@E-check"
+          },
+          {
+            "name": "@2LandingPageTitle"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "Navigated to url",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "output": [
+              "Browser navigated to URL :http://automationpractice.com/"
+            ],
+            "result": {
+              "duration": 11552635700,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User navigated to home application Url",
+            "match": {
+              "location": "com.visionit1.automation.stepdefs.StepDefs.user_navigated_to_home_application_url()"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-07-22T22:29:38.861Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1925261300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.visionit1.automation.stepdefs.StepDefs.setup(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 16,
+        "name": "User able to open the browser,navigated to url and product catagories are displayed",
+        "description": "",
+        "id": "e-commerce-website-for-online-shopping;user-able-to-open-the-browser-navigated-to-url-and-product-catagories-are-displayed",
+        "after": [
+          {
+            "output": [
+              "Test case is passed, no screen shot captured"
+            ],
+            "result": {
+              "duration": 997800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.visionit1.automation.stepdefs.StepDefs.takeScreenShot(io.cucumber.java.Scenario)"
+            }
+          },
+          {
+            "result": {
+              "duration": 715816000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.visionit1.automation.stepdefs.StepDefs.cleanUp()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "output": [
+              "All product catagories are displayed",
+              "All product catagories are displayed",
+              "All product catagories are displayed"
+            ],
+            "result": {
+              "duration": 52133300,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "All product catagories are displayed",
+            "match": {
+              "location": "com.visionit1.automation.stepdefs.StepDefs.all_product_catagories_are_displayed()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tc"
+          },
+          {
+            "name": "@E-check"
+          },
+          {
+            "name": "@3Product_Catagory"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "Navigated to url",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "output": [
+              "Browser navigated to URL :http://automationpractice.com/"
+            ],
+            "result": {
+              "duration": 12391793100,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User navigated to home application Url",
+            "match": {
+              "location": "com.visionit1.automation.stepdefs.StepDefs.user_navigated_to_home_application_url()"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-07-22T22:29:53.115Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1842802900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.visionit1.automation.stepdefs.StepDefs.setup(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 20,
+        "name": "User able to open the browser,navigated to url and landing page logo is displayed",
+        "description": "",
+        "id": "e-commerce-website-for-online-shopping;user-able-to-open-the-browser-navigated-to-url-and-landing-page-logo-is-displayed",
+        "after": [
+          {
+            "output": [
+              "Test case is passed, no screen shot captured"
+            ],
+            "result": {
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.visionit1.automation.stepdefs.StepDefs.takeScreenShot(io.cucumber.java.Scenario)"
+            }
+          },
+          {
+            "result": {
+              "duration": 722692800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.visionit1.automation.stepdefs.StepDefs.cleanUp()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "output": [
+              "Landing page logo is displayed"
+            ],
+            "result": {
+              "duration": 61789300,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "Landing page logo is displayed",
+            "match": {
+              "location": "com.visionit1.automation.stepdefs.StepDefs.landing_page_logo_is_displayed()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tc"
+          },
+          {
+            "name": "@E-check"
+          },
+          {
+            "name": "@4Logovalidation"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "Navigated to url",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "output": [
+              "Browser navigated to URL :http://automationpractice.com/"
+            ],
+            "result": {
+              "duration": 10555656500,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User navigated to home application Url",
+            "match": {
+              "location": "com.visionit1.automation.stepdefs.StepDefs.user_navigated_to_home_application_url()"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-07-22T22:30:08.159Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1815184000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.visionit1.automation.stepdefs.StepDefs.setup(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 24,
+        "name": "User able to open the browser,navigated to url and landing page logo height validated",
+        "description": "",
+        "id": "e-commerce-website-for-online-shopping;user-able-to-open-the-browser-navigated-to-url-and-landing-page-logo-height-validated",
+        "after": [
+          {
+            "output": [
+              "Test case is passed, no screen shot captured"
+            ],
+            "result": {
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.visionit1.automation.stepdefs.StepDefs.takeScreenShot(io.cucumber.java.Scenario)"
+            }
+          },
+          {
+            "result": {
+              "duration": 717222500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.visionit1.automation.stepdefs.StepDefs.cleanUp()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "output": [
+              "Landing page logo height is 99"
+            ],
+            "result": {
+              "duration": 21518300,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "Landing page logo height validated",
+            "match": {
+              "location": "com.visionit1.automation.stepdefs.StepDefs.landing_page_logo_height_validated()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tc"
+          },
+          {
+            "name": "@E-check"
+          },
+          {
+            "name": "@5Logo_Height"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "Navigated to url",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "output": [
+              "Browser navigated to URL :http://automationpractice.com/"
+            ],
+            "result": {
+              "duration": 11196348500,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User navigated to home application Url",
+            "match": {
+              "location": "com.visionit1.automation.stepdefs.StepDefs.user_navigated_to_home_application_url()"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-07-22T22:30:21.286Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1790318600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.visionit1.automation.stepdefs.StepDefs.setup(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 28,
+        "name": "User able to open the browser,navigated to url and landing page logo width validated",
+        "description": "",
+        "id": "e-commerce-website-for-online-shopping;user-able-to-open-the-browser-navigated-to-url-and-landing-page-logo-width-validated",
+        "after": [
+          {
+            "output": [
+              "Test case is passed, no screen shot captured"
+            ],
+            "result": {
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.visionit1.automation.stepdefs.StepDefs.takeScreenShot(io.cucumber.java.Scenario)"
+            }
+          },
+          {
+            "result": {
+              "duration": 719625900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.visionit1.automation.stepdefs.StepDefs.cleanUp()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "output": [
+              "Landing page logo width is 350"
+            ],
+            "result": {
+              "duration": 32991000,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "Landing page logo width validated",
+            "match": {
+              "location": "com.visionit1.automation.stepdefs.StepDefs.landing_page_logo_width_validated()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tc"
+          },
+          {
+            "name": "@E-check"
+          },
+          {
+            "name": "@6Logo_Width"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "Navigated to url",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "output": [
+              "Browser navigated to URL :http://automationpractice.com/"
+            ],
+            "result": {
+              "duration": 10463076200,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User navigated to home application Url",
+            "match": {
+              "location": "com.visionit1.automation.stepdefs.StepDefs.user_navigated_to_home_application_url()"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-07-22T22:30:35.033Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1753248600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.visionit1.automation.stepdefs.StepDefs.setup(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 32,
+        "name": "User navigated to url and click on signin button",
+        "description": "",
+        "id": "e-commerce-website-for-online-shopping;user-navigated-to-url-and-click-on-signin-button",
+        "after": [
+          {
+            "output": [
+              "Test case is passed, no screen shot captured"
+            ],
+            "result": {
+              "duration": 997800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.visionit1.automation.stepdefs.StepDefs.takeScreenShot(io.cucumber.java.Scenario)"
+            }
+          },
+          {
+            "result": {
+              "duration": 621059500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.visionit1.automation.stepdefs.StepDefs.cleanUp()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 8602185400,
+              "status": "passed"
+            },
+            "line": 33,
+            "name": "Click On Sign in button",
+            "match": {
+              "location": "com.visionit1.automation.stepdefs.StepDefs.click_on_sign_in_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "output": [
+              "Sign in page title is :Login - My Store"
+            ],
+            "result": {
+              "duration": 21937400,
+              "status": "passed"
+            },
+            "line": 34,
+            "name": "Sign in page title validated",
+            "match": {
+              "location": "com.visionit1.automation.stepdefs.StepDefs.sign_in_page_title_validated()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tc"
+          },
+          {
+            "name": "@E-check"
+          },
+          {
+            "name": "@7Sign_In_page_Title"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "Navigated to url",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "output": [
+              "Browser navigated to URL :http://automationpractice.com/"
+            ],
+            "result": {
+              "duration": 11842483900,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User navigated to home application Url",
+            "match": {
+              "location": "com.visionit1.automation.stepdefs.StepDefs.user_navigated_to_home_application_url()"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-07-22T22:30:56.513Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1772375200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.visionit1.automation.stepdefs.StepDefs.setup(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 37,
+        "name": "User navigated to url , Search for product and the list for product displayed",
+        "description": "",
+        "id": "e-commerce-website-for-online-shopping;user-navigated-to-url---search-for-product-and-the-list-for-product-displayed",
+        "after": [
+          {
+            "output": [
+              "Test case is passed, no screen shot captured"
+            ],
+            "result": {
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.visionit1.automation.stepdefs.StepDefs.takeScreenShot(io.cucumber.java.Scenario)"
+            }
+          },
+          {
+            "result": {
+              "duration": 704460500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.visionit1.automation.stepdefs.StepDefs.cleanUp()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "output": [
+              "Search box is enabled"
+            ],
+            "result": {
+              "duration": 47325100,
+              "status": "passed"
+            },
+            "line": 39,
+            "name": "Search for product \"Dress\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Dress\"",
+                  "offset": 19
+                }
+              ],
+              "location": "com.visionit1.automation.stepdefs.StepDefs.search_for_product(java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "output": [
+              "The number of products contains keyword dress are 5"
+            ],
+            "result": {
+              "duration": 3758005000,
+              "status": "passed"
+            },
+            "line": 40,
+            "name": "list for product is displayed",
+            "match": {
+              "location": "com.visionit1.automation.stepdefs.StepDefs.list_for_product_is_displayed()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tc"
+          },
+          {
+            "name": "@E-check"
+          },
+          {
+            "name": "@8SearchResult"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "Navigated to url",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "output": [
+              "Browser navigated to URL :http://automationpractice.com/"
+            ],
+            "result": {
+              "duration": 12699088600,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User navigated to home application Url",
+            "match": {
+              "location": "com.visionit1.automation.stepdefs.StepDefs.user_navigated_to_home_application_url()"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-07-22T22:31:14.645Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1756972300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.visionit1.automation.stepdefs.StepDefs.setup(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 43,
+        "name": "User navigated to url,click on twitter and validate",
+        "description": "",
+        "id": "e-commerce-website-for-online-shopping;user-navigated-to-url-click-on-twitter-and-validate",
+        "after": [
+          {
+            "output": [
+              "Test case is passed, no screen shot captured"
+            ],
+            "result": {
+              "duration": 985600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.visionit1.automation.stepdefs.StepDefs.takeScreenShot(io.cucumber.java.Scenario)"
+            }
+          },
+          {
+            "result": {
+              "duration": 777596200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.visionit1.automation.stepdefs.StepDefs.cleanUp()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 71525900,
+              "status": "passed"
+            },
+            "line": 45,
+            "name": "Click on twitter",
+            "match": {
+              "location": "com.visionit1.automation.stepdefs.StepDefs.click_on_twitter()"
+            },
+            "keyword": "When "
+          },
+          {
+            "output": [
+              "Twitter Account name is :Selenium Framework"
+            ],
+            "result": {
+              "duration": 2762034700,
+              "status": "passed"
+            },
+            "line": 46,
+            "name": "Twitter social media page displayed",
+            "match": {
+              "location": "com.visionit1.automation.stepdefs.StepDefs.twitter_social_media_page_displayed()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tc"
+          },
+          {
+            "name": "@E-check"
+          },
+          {
+            "name": "@9Twitter_Acc"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "Navigated to url",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "output": [
+              "Browser navigated to URL :http://automationpractice.com/"
+            ],
+            "result": {
+              "duration": 13932345400,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User navigated to home application Url",
+            "match": {
+              "location": "com.visionit1.automation.stepdefs.StepDefs.user_navigated_to_home_application_url()"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-07-22T22:31:32.735Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1737093500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.visionit1.automation.stepdefs.StepDefs.setup(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 49,
+        "name": "User navigated to url,enter email in newsletter and validate email subsciption is successful",
+        "description": "",
+        "id": "e-commerce-website-for-online-shopping;user-navigated-to-url-enter-email-in-newsletter-and-validate-email-subsciption-is-successful",
+        "after": [
+          {
+            "output": [
+              "Test case is passed, no screen shot captured"
+            ],
+            "result": {
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.visionit1.automation.stepdefs.StepDefs.takeScreenShot(io.cucumber.java.Scenario)"
+            }
+          },
+          {
+            "result": {
+              "duration": 715526700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.visionit1.automation.stepdefs.StepDefs.cleanUp()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 4618950500,
+              "status": "passed"
+            },
+            "line": 51,
+            "name": "enter \"dsg1525@gmail.com\" in newsletter and click on proceed",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"dsg1525@gmail.com\"",
+                  "offset": 6
+                }
+              ],
+              "location": "com.visionit1.automation.stepdefs.StepDefs.enter_in_newsletter_and_click_on_proceed(java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "output": [
+              "After successful email subscription the message should be: Newsletter : You have successfully subscribed to this newsletter."
+            ],
+            "result": {
+              "duration": 42911100,
+              "status": "passed"
+            },
+            "line": 52,
+            "name": "Email subscription successful is validated",
+            "match": {
+              "location": "com.visionit1.automation.stepdefs.StepDefs.email_subscription_successful_is_validated()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tc"
+          },
+          {
+            "name": "@E-check"
+          },
+          {
+            "name": "@10NewSletter_Subscription"
+          }
+        ]
+      }
+    ],
+    "name": "E-commerce website for online shopping",
+    "description": "",
+    "id": "e-commerce-website-for-online-shopping",
+    "keyword": "Feature",
+    "uri": "classpath:features/E-check.feature",
+    "tags": [
+      {
+        "name": "@tc",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      },
+      {
+        "name": "@E-check",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 5
+        }
+      }
+    ]
+  }
+]
